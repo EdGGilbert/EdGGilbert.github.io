@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Ed Gilbert"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : &description
   location         : "UK"
   employer         : "The University of Hull"
   uri              : # URL
