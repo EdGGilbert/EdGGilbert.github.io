@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Ed Gilbert"
   pronouns         : # example: "she/her"  
-  bio              : &description
+  bio              : "Herpetologist with wide interest in ecological and evolutionary processes, particular in the context of conservation"
   location         : "UK"
-  employer         : "The University of Hull"
+  employer         : "The University of Hull"(https://www.hull.ac.uk/)
   uri              : # URL
   email            : "e.gilbert-2021[at]hull.ac.uk" 
 

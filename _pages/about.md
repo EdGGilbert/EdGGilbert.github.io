@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ed Gilbert, researcher"
+title: "Ed Gilbert, Biologist"
 author_profile: true
 redirect_from: 
   - /about/
